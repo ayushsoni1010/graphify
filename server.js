@@ -3,11 +3,16 @@ const dotenv = require("dotenv");
 const cors = require("cors");
 const path = require("path");
 const { logRequestResponse } = require("./src/middlewares/index");
+const { connectMongoDB } = require("./src/config/database");
 
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 8000;
+const MONGO_URL = process.env.MONGO_URL;
+
+// Mongoose Connection
+// connectMongoDB(MONGO_URL);
 
 // Middleware setup
 app.use(express.json());
