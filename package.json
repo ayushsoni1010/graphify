@@ -1,0 +1,48 @@
+{
+  "name": "graphify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "private": false,
+  "homepage": "https://github.com/ayushsoni1010/graphify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushsoni1010/graphify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayushsoni1010/graphify/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Node.js",
+    "TypeScript"
+  ],
+  "author": {
+    "name": "Ayush Soni",
+    "email": "ayushsoni1010.work@gmail.com",
+    "url": "https://ayushsoni1010.com"
+  },
+  "contributors": [
+    {
+      "name": "Ayush Soni",
+      "email": "ayushsoni1010.work@gmail.com",
+      "url": "https://ayushsoni1010.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.2",
+    "nodemon": "^3.0.1"
+  }
+}
