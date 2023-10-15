@@ -1,0 +1,314 @@
+module.exports = () => {
+  const date = new Date();
+  const month = date.toLocaleString("default", { month: "long" });
+  const year = date.getFullYear();
+  const newDate = `${month} ${date.getDate()}, ${year}`;
+
+  return `
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>PDF Result Template</title>
+    <style>
+      .pdf-result-template-wrapper {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .header-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+      }
+      .header-logo-wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .header-text-address {
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 900;
+      }
+
+      .bg-gradient {
+        width: 100%;
+        height: 0.25rem;
+        background-image: linear-gradient(to right, #2563eb, #22d3ee);
+        background-color: #2563eb;
+      }
+
+      .base-card-mock-wrapper-container {
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+        border-radius: 1.5rem;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      }
+      .base-card-mock-wrapper {
+        display: flex;
+        flex-direction: column;
+      }
+      .upper-card-mock-wrapper {
+        border-top-left-radius: 1.5rem;
+        border-top-right-radius: 1.5rem;
+        height: 3.5rem;
+        background: #e8eefb;
+      }
+      .below-card-mock-wrapper {
+        padding: 1.5rem;
+        border-bottom-right-radius: 1.5rem;
+        border-bottom-left-radius: 1.5rem;
+        background: #f7f9fc;
+      }
+      .inner-card-mock-wrapper {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        border-radius: 1.5rem;
+        border-width: 1px;
+        background-color: #ffffff;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      }
+      .only-graph-button-wrapper {
+        padding-top: 0.875rem;
+        padding-bottom: 0.875rem;
+        padding-left: 6rem;
+        padding-right: 6rem;
+        border-radius: 9999px;
+        font-weight: 900;
+        text-align: center;
+        color: #ffffff;
+        background-image: linear-gradient(
+          to right,
+          #60a5fa 1%,
+          #22d3ee,
+          #3b82f6 70%
+        );
+        background-color: #60a5fa;
+        background-color: #3b82f6;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      }
+      .chart-canvas-base-card-wrapper {
+        display: flex;
+        margin-bottom: 1rem;
+        flex-direction: row;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+      }
+      .base-card-canvas-burglary-card-wrapper {
+        position: relative;
+        border-top-left-radius: 1.5rem;
+        border-top-right-radius: 1.5rem;
+        height: 3.5rem;
+        background: #e8eefb;
+      }
+      .burglary-card-text-container {
+        padding-top: 1.3rem;
+        margin-left: 1.3rem;
+        margin-right: 1.5rem;
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 500;
+        color: #1463ff;
+      }
+      .canvas-chart-card-container {
+        padding-top: 0.3rem;
+        padding-bottom: 1.5rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        border-bottom-right-radius: 1.5rem;
+        border-bottom-left-radius: 1.5rem;
+        background: #f7f9fc;
+      }
+      .canvas-card-arrest-text {
+        display: flex;
+        z-index: 10;
+        position: relative;
+        left: -25px;
+        top: 11rem;
+        transform-origin: 0 0;
+        transform: rotate(-90deg);
+        flex-direction: row;
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 500;
+      }
+      .canvas-chart-container-mockup {
+        border-radius: 1.5rem;
+        border-width: 1px;
+        height: 18rem;
+        background-color: #ffffff;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      }
+      .footer-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+      }
+      .footer-text-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .footer-first-text-container {
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 900;
+        color: #1463ff;
+      }
+      .footer-second-text-container {
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 900;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="pdf-result-template-wrapper">
+      <!--  -->
+      <header class="header-wrapper">
+        <div class="header-logo-wrapper">
+          <a href="/">
+            <!-- Logo Addition -->
+            <img
+              src="https://ik.imagekit.io/ayushsoni1010/projects/logo_VfRb31-nN.svg?updatedAt=1697372064359"
+              class="w-40"
+              alt="RealAssist.ai Logo"
+            />
+          </a>
+          <p class="header-text-address">
+            123 Main Street, Dover, NH 03820-4667
+          </p>
+        </div>
+        <div class="bg-gradient"></div>
+      </header>
+      <!--  -->
+      <div class="base-card-mock-wrapper-container">
+        <div class="base-card-mock-wrapper">
+          <div class="upper-card-mock-wrapper"></div>
+          <div class="below-card-mock-wrapper">
+            <div class="inner-card-mock-wrapper">
+              <!-- Image addtion -->
+              <img
+                src="https://ik.imagekit.io/ayushsoni1010/projects/bg_RS5nAFUmaG.png?updatedAt=1697372064345"
+                alt="blur-background"
+                style="width: 100vw; height: 10rem"
+              />
+              <div style="position: absolute">
+                <button class="only-graph-button-wrapper">
+                  Only Focus on Crime Graph
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+      <div class="base-card-mock-wrapper-container">
+        <div class="base-card-mock-wrapper">
+          <div class="upper-card-mock-wrapper"></div>
+          <div class="below-card-mock-wrapper">
+            <div class="inner-card-mock-wrapper">
+              <!-- Image addtion -->
+              <img
+                src="https://ik.imagekit.io/ayushsoni1010/projects/bg_RS5nAFUmaG.png?updatedAt=1697372064345"
+                alt="blur-background"
+                style="width: 100vw; height: 10rem"
+              />
+              <div style="position: absolute">
+                <button class="only-graph-button-wrapper">
+                  Only Focus on Crime Graph
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+      <div class="base-card-mock-wrapper-container">
+        <div class="base-card-mock-wrapper">
+          <div
+            class="upper-card-mock-wrapper"
+            style="height: 5rem !important"
+          ></div>
+          <div class="below-card-mock-wrapper">
+            <div class="inner-card-mock-wrapper">
+              <!-- Image addtion -->
+              <img
+                src="https://ik.imagekit.io/ayushsoni1010/projects/bg_RS5nAFUmaG.png?updatedAt=1697372064345"
+                alt="blur-background"
+                style="width: 100vw; height: 14rem"
+              />
+              <div style="position: absolute">
+                <button class="only-graph-button-wrapper">
+                  Only Focus on Crime Graph
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+      <div>
+        <div class="chart-canvas-base-card-wrapper">
+          <div style="display: flex; gap: 0.25rem">
+            <img
+              src="https://ik.imagekit.io/ayushsoni1010/projects/location_G-pZzx-FL.svg?updatedAt=1697372064413"
+              style="width: 28px"
+              alt="RealAssist.ai Logo"
+            />
+            <p
+              style="
+                font-size: 1.125rem;
+                line-height: 1.75rem;
+                font-weight: 500;
+              "
+            >
+              Crime
+            </p>
+          </div>
+          <div class="bg-gradient"></div>
+        </div>
+        <div class="base-card-mock-wrapper-container">
+          <div class="base-card-canvas-burglary-card-wrapper">
+            <p class="burglary-card-text-container">Burglary</p>
+          </div>
+          <div class="canvas-chart-card-container">
+            <div style="position: relative">
+              <p class="canvas-card-arrest-text">Arrests</p>
+              <div class="canvas-chart-container-mockup">
+                <!-- <LineChart /> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+      <footer class="footer-wrapper">
+        <div class="bg-gradient"></div>
+        <div class="footer-text-container">
+          <p class="footer-first-text-container">
+            Report Generated on ${newDate}
+          </p>
+          <p class="footer-second-text-container">
+            RealAssist Property report | Page 1
+            <span style="color: #64748b; font-weight: 900">of 25</span>
+          </p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
+
+
+    `;
+};
