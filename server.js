@@ -4,6 +4,7 @@ const cors = require("cors");
 const path = require("path");
 const generatePdfRoutes = require("./src/routes/generatePdfRoutes");
 const openAIRoutes = require("./src/routes/openaiRoutes");
+const puppeteerRoutes = require("./src/routes/puppeteerPdfRoutes");
 const { logRequestResponse } = require("./src/middlewares/index");
 const { connectMongoDB } = require("./src/config/database");
 
@@ -24,6 +25,7 @@ app.use(logRequestResponse("logs/log.txt"));
 
 // Routes
 app.use("/api/chart", generatePdfRoutes);
+app.use("/api/puppeteer", puppeteerRoutes);
 app.use("/api/ai", openAIRoutes);
 
 app.get("/api", (_req, res) => {

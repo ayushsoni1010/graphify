@@ -1,0 +1,993 @@
+
+
+New Log:
+	--> Date   = 15/10/2023, 8:04:52 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:05:15 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:05:29 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:05:56 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:06:38 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/puppeteer
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:07:04 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:08:03 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:08:19 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:10:50 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:11:18 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:12:07 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:15:55 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:26:57 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:27:38 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:28:39 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:30:02 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:31:58 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:33:19 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:36:50 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:39:15 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:40:44 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:41:16 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:41:39 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:42:00 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:43:15 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:43:40 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:46:42 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:47:09 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:48:03 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:48:30 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:48:42 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:52:45 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:54:19 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:54:44 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 8:57:28 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:01:41 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:02:18 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:02:49 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:29:17 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:32:34 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:36:43 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:38:38 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:43:26 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:44:19 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:44:41 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:44:59 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:49:03 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:50:06 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 9:51:34 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:00:03 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:01:22 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:01:46 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:02:14 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:02:33 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:02:40 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:03:26 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:04:46 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:05:00 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:05:08 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:05:24 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:05:55 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:05:56 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:06:00 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:06:30 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:06:31 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:43 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:44 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:46 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:47 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:52 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:53 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:56 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:07:57 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:09:54 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:09:55 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:10:06 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:10:07 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:11:33 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:11:34 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:11:36 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:11:37 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:14:32 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:14:33 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:14:35 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:14:36 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:15:41 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:15:42 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:15:50 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:15:50 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:15:55 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:16:13 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:16:14 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:17:35 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:17:36 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:32 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:33 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:51 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:52 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:54 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:18:59 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:19:02 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:19:04 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:19:05 pm
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api/chart/fetch
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:34:40 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:34:45 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:07 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:08 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:09 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:10 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:11 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:14 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:36:18 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/puppeteer/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:18 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:20 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:20 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:21 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:21 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:21 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:21 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:38:30 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:39:46 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:40:01 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:40:16 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 15/10/2023, 10:40:43 pm
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api/chart/generate
+	--> Body   = NULL
+	

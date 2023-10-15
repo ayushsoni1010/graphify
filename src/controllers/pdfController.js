@@ -5,7 +5,6 @@ const { successResponse, errorResponse } = require("../utils/response.js");
 async function handleGeneratePDF(request, response) {
   try {
     const body = request?.body;
-    console.log("Generating PDF");
 
     pdf
       .create(pdfTemplate(), {})
