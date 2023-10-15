@@ -1,5 +1,3 @@
-import React from "react";
-// import bg from "../../assets/img.png";
 import bg from "../../assets/bg.png";
 import Button from "../Button";
 

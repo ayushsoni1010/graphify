@@ -20,27 +20,6 @@ ChartJS.register(
   Legend
 );
 
-const options = {
-  indexAxis: "x",
-  elements: {
-    line: {
-      borderWidth: 2,
-    },
-  },
-  responsive: true,
-  plugins: {
-    legend: {
-      display: false,
-    },
-    title: {
-      display: true,
-      text: "Burglary",
-      fontSize: 20,
-      fontColor: "#1463FF",
-    },
-  },
-};
-
 const LineChart = (chartData: any) => {
   const apiEndPoint =
     "https://api.usa.gov/crime/fbi/cde/arrest/state/AK/all?from=2015&to=2020&API_KEY=iiHnOKfno2Mgkt5AynpvPpUQTEyxE77jo1RU8PIv";
@@ -94,7 +73,7 @@ const LineChart = (chartData: any) => {
     <div className="w-full">
       {!loading && data.labels ? (
         <Line
-          height={50}
+          height={75}
           data={data}
           options={{
             layout: {
@@ -103,7 +82,10 @@ const LineChart = (chartData: any) => {
             responsive: true,
             scales: {
               x: {
-                display: false,
+                display: true,
+                grid: {
+                  display: false,
+                },
               },
             },
             plugins: {
