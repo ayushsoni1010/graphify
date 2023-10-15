@@ -70,7 +70,7 @@ const LineChart = (chartData: any) => {
   }, []);
 
   return (
-    <div className="w-full">
+    <div className="w-full items-center">
       {!loading && data.labels ? (
         <Line
           height={75}
@@ -99,7 +99,9 @@ const LineChart = (chartData: any) => {
           }}
         />
       ) : (
-        <p>loading</p>
+        <p className="text-center font-bold text-lg justify-center relative top-28">
+          loading...
+        </p>
       )}
     </div>
   );
