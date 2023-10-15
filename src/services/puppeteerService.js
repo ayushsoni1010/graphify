@@ -30,7 +30,7 @@ async function getScrapedData(request, response, website) {
       path: "frontend/public/puppeteer.pdf",
       omitBackground: false,
       printBackground: true,
-      height: 1500,
+      height: 1700,
     });
 
     return successResponse(

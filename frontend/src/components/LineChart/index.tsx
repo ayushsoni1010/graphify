@@ -73,7 +73,7 @@ const LineChart = (chartData: any) => {
     <div className="w-full items-center">
       {!loading && data.labels ? (
         <Line
-          height={75}
+          height={70}
           data={data}
           options={{
             layout: {

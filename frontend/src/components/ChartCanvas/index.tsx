@@ -21,10 +21,10 @@ const ChartCanvas = () => {
           </div>
           <div className="bg-[#F7F9FC] pt-[0.3rem] pb-6 px-8 rounded-br-3xl rounded-bl-3xl">
             <div className="relative ">
-              <p className="flex z-10 relative left-[-25px] origin-[0_0] -rotate-90 flex-row text-sm leading-5 font-medium top-44">
+              <p className="flex z-10 relative left-[-25px] origin-[0_0] -rotate-90 flex-row text-sm leading-5 font-medium top-40">
                 Arrests
               </p>
-              <div className=" bg-white rounded-3xl shadow-sm border h-72">
+              <div className=" bg-white rounded-3xl shadow-sm border h-64">
                 <LineChart />
               </div>
             </div>
