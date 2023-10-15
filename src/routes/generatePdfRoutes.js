@@ -9,11 +9,7 @@ router.get("/", async (_request, response) => {
 });
 
 router.get("/fetch", async (_request, response) => {
-  if (`${__dirname}/public/result.pdf`) {
-    console.log("Fetching result: DONE✅");
-  }
-  console.log(`${__dirname}/public/result.pdf`);
-  return response.sendFile(`${__dirname}/public/result.pdf`);
+  response.sendFile(`${__dirname}/frontend/public/print.pdf`);
 });
 
 router.post("/generate", async (request, response) => {
@@ -23,7 +19,6 @@ router.post("/generate", async (request, response) => {
     if (!data) {
       return errorResponse(response, "Please provide the data to generate PDF");
     }
-    response.setHeader("Content-Type", "application/pdf");
 
     return await handleGeneratePDF(request, response);
   } catch (error) {
