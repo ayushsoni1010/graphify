@@ -57,7 +57,6 @@ const LineChart = (chartData: any) => {
     axios
       .get(apiEndPoint)
       .then((response) => {
-        console.log(response);
         setLoading(true);
         response?.data?.data.forEach((item: any, index: number) => {
           labels.push(item?.data_year);

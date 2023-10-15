@@ -3,7 +3,6 @@ import Header from "../Header";
 import BaseCard from "../Card";
 import Footer from "../Footer";
 import ChartCanvas from "../ChartCanvas";
-import LineChart from "../LineChart";
 
 const Dashboard: React.FunctionComponent = () => {
   return (
