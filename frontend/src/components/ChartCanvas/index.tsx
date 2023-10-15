@@ -2,6 +2,8 @@ import location from "../../assets/location.svg";
 import Divider from "../Divider";
 import bg from "../../assets/bg.png";
 import Button from "../Button";
+import { useState, useEffect } from "react";
+import LineChart from "../LineChart";
 
 const ChartCanvas = () => {
   return (
@@ -22,14 +24,11 @@ const ChartCanvas = () => {
           </div>
           <div className="bg-[#F7F9FC] p-6 rounded-b-3xl">
             <div className="relative ">
-              <p className="text-sm font-medium flex flex-row gap-10 z-10 -rotate-[90deg] absolute -left-9 top-16">
+              <p className="text-sm font-medium flex flex-row gap-10 z-10 -rotate-[90deg] absolute -left-9 top-24">
                 Arrests
               </p>
-              <div className="flex justify-center items-center bg-white rounded-3xl shadow-sm border relative">
-                <img src={bg} alt="blur-background" className="w-screen h-40" />
-                <div className="absolute">
-                  <Button />
-                </div>
+              <div className=" bg-white rounded-3xl shadow-sm border">
+                <LineChart />
               </div>
             </div>
           </div>
