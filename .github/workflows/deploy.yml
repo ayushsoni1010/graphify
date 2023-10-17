@@ -22,10 +22,6 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       - name: Change to frontend directory
-        run: cd frontend
-      - name: Install frontend dependencies
-        run: npm install
-      - name: Build frontend app
-        run: npm run build --if-present
+        run: cd frontend && npm install && npm run build --if-present
       - name: Start the application with pm2
         run: pm2 start default
