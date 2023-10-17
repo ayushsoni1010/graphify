@@ -991,3 +991,27 @@ New Log:
 	--> Path   = /api/chart/generate
 	--> Body   = NULL
 	
+
+New Log:
+	--> Date   = 17/10/2023, 10:55:53 am
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 17/10/2023, 10:55:59 am
+	--> IP     = ::1
+	--> Method = POST
+	--> Path   = /api
+	--> Body   = NULL
+	
+
+New Log:
+	--> Date   = 17/10/2023, 10:56:03 am
+	--> IP     = ::1
+	--> Method = GET
+	--> Path   = /api
+	--> Body   = NULL
+	
